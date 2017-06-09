@@ -42,11 +42,14 @@ public class ActSplash extends Activity
 
             splashText = (TextView) findViewById(R.id.splashText);
 
+
             // Initialize FirebaseAuth
             mFirebaseAuth = FirebaseAuth.getInstance();
             // Obtain the FirebaseAnalytics instance.
             mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
+
+            App.getInstance().trackScreenView(getResources().getString(R.string.scrn_ActSplash));
 
             String refreshedToken = App.sharePrefrences.getStringPref(AppFlags.PREF_KEY_DEVICE_TOKEN);
             App.sharePrefrences.setPref(AppFlags.PREF_KEY_USER_ID, "0");
@@ -63,7 +66,7 @@ public class ActSplash extends Activity
             setSendCrashData();
             displaySplash();
 
-            App.getInstance().trackScreenView(getResources().getString(R.string.scrn_ActSplash));
+
 
             splashText.setTypeface(App.getFont_Bold());
 
@@ -124,14 +127,17 @@ public class ActSplash extends Activity
             Log.d(TAG, "---FirebaseAnalytics.Event.SELECT_CONTENT------");
             Bundle bundle = new Bundle();
             bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "111");
-            bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Prince");
+            bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Prince - SELECT_CONTENT");
             bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
             mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
             Log.d(TAG, "---FirebaseAnalytics.Event.SHARE------");
             Bundle bundle2 = new Bundle();
-            bundle2.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "prince article");
             bundle2.putString(FirebaseAnalytics.Param.ITEM_ID, "p786");
+            bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Prince - SHARE");
+            bundle2.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "prince article-SHARE");
             mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SHARE, bundle);
+
         } catch (Exception e) {
             Log.d(TAG, "---setSendDataAnalytics-Error send analytics--");
             e.printStackTrace();

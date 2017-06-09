@@ -17,12 +17,14 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ListView;
 
 import com.amazonaws.mobile.AWSMobileClient;
 import com.amazonaws.mobilehelper.auth.IdentityManager;
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.snsamazone.App;
 import com.snsamazone.R;
 import com.snsamazone.demo.DemoConfiguration;
@@ -32,6 +34,7 @@ import com.snsamazone.navigation.NavigationDrawer;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     /** Class name for log messages. */
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
+    private static final String TAG = MainActivity.class.getSimpleName();
 
     /** Bundle key for saving/restoring the toolbar title. */
     private static final String BUNDLE_KEY_TOOLBAR_TITLE = "title";
@@ -122,6 +125,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
         App.getInstance().trackScreenView(getResources().getString(R.string.scrn_MainActivity));
+        setSendDataAnalytics();
     }
 
     @Override
@@ -204,4 +208,32 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public Bundle getFragmentBundle() {
         return this.fragmentBundle;
     }
+
+
+
+    private void setSendDataAnalytics() {
+        try {
+             FirebaseAnalytics mFirebaseAnalytics;
+            mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+
+            Log.d(TAG, "---FirebaseAnalytics.Event.SELECT_CONTENT------");
+            Bundle bundle = new Bundle();
+            bundle.putString(FirebaseAnalytics.Param.ITEM_ID, "222");
+            bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Prince222 - SELECT_CONTENT");
+            bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image222");
+            mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+
+            Log.d(TAG, "---FirebaseAnalytics.Event.SHARE------");
+            Bundle bundle2 = new Bundle();
+            bundle2.putString(FirebaseAnalytics.Param.ITEM_ID, "222");
+            bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "Prince222 - SHARE");
+            bundle2.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "text222");
+            mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SHARE, bundle);
+
+        } catch (Exception e) {
+            Log.d(TAG, "---setSendDataAnalytics-Error send analytics--");
+            e.printStackTrace();
+        }
+    }
+
 }
