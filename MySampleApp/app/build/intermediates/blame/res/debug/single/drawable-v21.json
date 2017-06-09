@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\drawable-v21\\design_password_eye.xml"
+    }
+]

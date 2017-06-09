@@ -1,0 +1,107 @@
+Amazon SNS Mobile Push Android Mobile Push App
+----------------------------------------------------
+This sample is compatible with physical devices running android versions of 2.3 and later.
+It is compatible with virtual devices running Google API 17 and later.
+
+This sample creates an app to display messages from SNS Mobile Push services.
+
+To use this sample:
+
+1-  Make sure you have the latest android sdk, found here http://developer.android.com/sdk/index.html
+	the google-play-services sdk, information about which can be found here
+	http://developer.android.com/google/play-services/setup.html, and the android support library,
+    which can be downloaded from the Android SDK Manager.
+    ***Make sure all 3 are in your buildpath. However, make sure android.jar is NOT exported
+       and the other 2 are exported.***
+2- Follow the instructions found at http://docs.aws.amazon.com/sns/latest/dg/mobile-push-gcm.html .
+
+For more information about Amazon SNS Mobile Push, please see docs.aws.amazon.com/sns/latest/dg/SNSMobilePush.html
+For licensing information about this sample, please see the included LICENSE.txt.
+
+
+
+
+
+
+https://console.aws.amazon.com/mobilehub/home#/create
+
+
+
+https://us-west-2.console.aws.amazon.com/sns/v2/home?region=us-west-2
+
+http://docs.aws.amazon.com/sns/latest/dg/welcome.html
+
+
+http://docs.aws.amazon.com/sns/latest/dg/mobile-push-apns.html#device-token-apns
+
+
+
+
+
+
+video
+
+http://docs.aws.amazon.com/sns/latest/dg/welcome.html
+
+
+
+arn:aws:sns:us-west-2:051905224690:TestApp-Testing
+
+
+arn:aws:sns:
+
+us-east-1:f71f5661-4958-485f-b699-a2b07262c001
+
+
+
+arn:aws:sns:us-east-1:f71f5661-4958-485f-b699-a2b07262c001
+
+arn:aws:sqs:us-east-1:f71f5661-4958-485f-b699-a2b07262c001:my-queue
+
+
+placeholder="arn:aws:sns:us-east-1:555555555555:endpoint/ADM/application-name/uuid"
+
+
+
+
+d0LNJkU4vh8:APA91bGOWXX8XXZL9-Eyv715U_poNst0gUGsjdbHWjhweUmzycqKEZ4IVx37ziR0buP3J0VePszQdbZMyU2TPgdMAr1_JBmJnLOWU88m_bGDZ2E3Tys_WRI6xfApPrHC5kq4eM7Ii6Yc
+d0LNJkU4vh8:APA91bGOWXX8XXZL9-Eyv715U_poNst0gUGsjdbHWjhweUmzycqKEZ4IVx37ziR0buP3J0VePszQdbZMyU2TPgdMAr1_JBmJnLOWU88m_bGDZ2E3Tys_WRI6xfApPrHC5kq4eM7Ii6Yc
+
+
+
+
+http://docs.aws.amazon.com/sns/latest/dg/sms_supported-countries.html
+
+
+
+us-east-1:a51b4907-5760-4f7a-bb43-3ffecb7e4ef8
+
+
+sns.us-east-1.amazonaws.com
+
+
+
+
+send push notification
+https://us-west-2.console.aws.amazon.com/sns/v2/home?region=us-west-2#/applications
+
+
+
+
+http://docs.aws.amazon.com/sns/latest/dg/mobile-push-send-devicetoken.html
+
+
+
+https://us-west-2.console.aws.amazon.com/sns/v2/home?region=us-west-2#/applications/arn:aws:sns:us-west-2:051905224690:app/GCM/TestApp
+
+
+
+
+
+
+dmkZwE7ptxY:APA91bE-1WY3Kb4CbxN9g_RPJN8hL0w3dw4ruPxFqpK_Yhmap5X24Klp_uT9bDaLDay6JhGt2TH3Gf0xGfD-UbnLk_fponsoAfCSLSJSY8CIHDI4qdCQAHE_4xR5pBS3PGc77do7ZhzI
+
+
+
+
+https://us-west-2.console.aws.amazon.com/sns/v2/home?region=us-west-2#/subscriptions

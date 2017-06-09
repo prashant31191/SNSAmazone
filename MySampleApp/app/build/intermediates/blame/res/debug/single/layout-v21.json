@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\d793140597d91af5cc70413f89b64d70ed0589fb\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

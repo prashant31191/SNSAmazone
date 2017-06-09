@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up_slow.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\bottom_up_slow.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flipin.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\flipin.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flipout_reverse.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\flipout_reverse.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down_slow.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\bottom_down_slow.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoominout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\zoominout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flipin_reverse.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\flipin_reverse.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f897c7e164e636936bbe88a552511caca8c4e383\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flipout.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\flipout.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\5fba8a8fa1dd6edfbe9d269a8065738a0de78d43\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "E:\\Prashant\\Github_Demo\\SNSAmazone\\MySampleApp\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    }
+]
